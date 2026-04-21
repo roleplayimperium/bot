@@ -1,7 +1,7 @@
 let Config = {};
 
 Config.General = {
-    ['Token']: 'MTQ5NjE3ODUxNjA4ODMyNDEyNg.G6iu06.RTHM4RyyHk8cRxLxcQc_poMvpcsBcO5bGJHAc4',
+    ['Token']: process.env.MTQ5NjE3ODUxNjA4ODMyNDEyNg.GdRHvR.OdjxDNOinjw53u-wE6Xv8ULMkKvwwrIyXzyWBc,
     ['GuildId']: '1496168789522255942',
     ['JSON']: './data.json',
 };
