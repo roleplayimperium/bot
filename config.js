@@ -6,6 +6,8 @@ Config.General = {
     ['JSON']: './data.json',
 };
 
+module.exports = Config;
+
 Config.Logs = {
     ['Webhook']: 'https://discord.com/api/webhooks/1496181166976532694/xEbbM30IX_c0r7S1bxrNxUiJnq8ZtFDc0sYJhhAX51SRT8b8iF0CMNXBUKpVVXq4kcHD'
 };
