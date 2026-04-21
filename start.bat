@@ -1,0 +1,3 @@
+:main
+node .
+goto main
