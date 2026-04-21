@@ -1662,3 +1662,4 @@ process.on('uncaughtException', async (error) => {
 });
 
 client.login(Config.General['Token']);
+
